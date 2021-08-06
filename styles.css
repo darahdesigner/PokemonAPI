@@ -1,0 +1,31 @@
+body{
+    background: #ffe9b7;
+    color: #0b1b47;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+}
+h4
+{
+text-transform: capitalize;
+}
+#pokeInfo{
+    flex-direction: row;
+}
+#pokeTypes1{
+    text-transform: capitalize;
+}
+#pokeTypes2{
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: inherit;
+}
